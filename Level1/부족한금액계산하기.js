@@ -5,3 +5,14 @@ function solution(price, money, count) {
 
   return deficit > 0 ? deficit : 0;
 }
+
+// Solution 2
+function solution(price, money, count) {
+  let answer = 0;
+
+  for (let i = 1; i <= count; i++) {
+    answer += price * i;
+  }
+
+  return answer > money ? answer - money : 0;
+}
