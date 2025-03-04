@@ -35,4 +35,5 @@
 
 |주차|난이도|문제|JS 풀이코드|
 | :----------------: | :----------------: | :----------------: | :----------------:|
-| 1주차<br />(03.01. ~ 03.01.) | `Level 1`<br /> | [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)<br /> | [JS](https://github.com/ej-kimm/algorithm-with-js/blob/main/Level1/부족한금액계산하기.js) (2차 풀이)<br /> |
+| 1주차<br />(03.01. ~ 03.02.) | `Level 1`<br /> | [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)<br /> | [JS](https://github.com/ej-kimm/algorithm-with-js/blob/main/Level1/부족한금액계산하기.js) (2차 풀이)<br /> |
+| 2주차<br />(03.03. ~ 03.09.) | `Level 1`<br /> | [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)<br /> | [JS](https://github.com/ej-kimm/algorithm-with-js/blob/main/Level1/문자열다루기기본.js)<br /> |
